@@ -21,7 +21,8 @@ This project helped me understand that a visually distinctive design also needs 
 
 ## Visual
 - [Boundary barrier concept schematic](../../assets/vertical-barrier.svg)
+- [Final design board preview (compressed)](../../assets/vertical-barrier-board.jpg)
 
-*The SVG is a schematic navigation thumbnail, not an original coursework presentation board.*
+*The SVG is a schematic illustration. The linked board preview is compressed and low-resolution; it is not a substitute for the original submission file.*
 
 **Academic-work note:** The design and calculations are coursework only and have not been independently verified for real-world construction.
