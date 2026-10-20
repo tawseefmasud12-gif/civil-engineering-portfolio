@@ -23,8 +23,8 @@ The project strengthened my understanding of how site context, user experience, 
 
 ## Visual
 - [Pavilion concept schematic](../../assets/pavilion-concept.svg)
-- [Pavilion concept schematic](../../assets/pavilion-concept.svg)
+- [Final design board preview (compressed)](../../assets/pavilion-board-2.jpg)
 
-*The SVG is a schematic navigation thumbnail, not an original coursework presentation board.*
+*The SVG is a schematic illustration. The linked board preview is compressed and low-resolution; it is not a substitute for the original submission file.*
 
 **Academic-work note:** This is a university design proposal, not a built project or construction-ready design. Group work included contributions from other students; acknowledge the team and obtain appropriate permission before reproducing project materials.
