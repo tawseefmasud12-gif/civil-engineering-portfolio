@@ -23,7 +23,8 @@ The project improved my understanding of how route geometry, accessibility, stru
 
 ## Visual
 - [Raised walkway concept schematic](../../assets/raised-walkway.svg)
+- [Final design board preview (compressed)](../../assets/raised-walkway-board.jpg)
 
-*The SVG is a schematic navigation thumbnail, not an original coursework presentation board.*
+*The SVG is a schematic illustration. The linked board preview is compressed and low-resolution; it is not a substitute for the original submission file.*
 
 **Academic-work note:** This is a university design proposal, not a built walkway or construction-ready engineering design. Group contributions should be acknowledged appropriately.
