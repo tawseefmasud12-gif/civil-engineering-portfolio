@@ -20,6 +20,8 @@ The project explored how to express a contemporary design without simply copying
 This project helped me understand that a visually distinctive design also needs a clear explanation of load path, foundation strategy, construction sequence and long-term maintenance.
 
 ## Visual
-- [Final design board](../../assets/vertical-barrier-board.jpg)
+- [Boundary barrier concept schematic](../../assets/vertical-barrier.svg)
+
+*The SVG is a schematic navigation thumbnail, not an original coursework presentation board.*
 
 **Academic-work note:** The design and calculations are coursework only and have not been independently verified for real-world construction.
