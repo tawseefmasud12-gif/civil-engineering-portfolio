@@ -21,8 +21,10 @@ Worked in a mixed group to discuss precedent research, compare concepts, combine
 ## Key learning
 The project strengthened my understanding of how site context, user experience, material choices, constructability and structural arrangements influence one another. It also helped develop confidence in using Revit as a design communication tool.
 
-## Visuals
-- [Initial concepts and design development board](../../assets/pavilion-board-1.jpg)
-- [Final design board](../../assets/pavilion-board-2.jpg)
+## Visual
+- [Pavilion concept schematic](../../assets/pavilion-concept.svg)
+- [Pavilion concept schematic](../../assets/pavilion-concept.svg)
+
+*The SVG is a schematic navigation thumbnail, not an original coursework presentation board.*
 
 **Academic-work note:** This is a university design proposal, not a built project or construction-ready design. Group work included contributions from other students; acknowledge the team and obtain appropriate permission before reproducing project materials.
