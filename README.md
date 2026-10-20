@@ -11,21 +11,21 @@ A partially open outdoor shelter concept designed to respond to St George's Fiel
 
 **Skills developed:** Revit modelling and contextual views; plans, sections, elevations, details and 3D visualisation; comparing material and construction options; collaborative design reviews and presentation.
 
-[Project notes](projects/01-st-georges-field-pavilion/README.md) · [Schematic thumbnail](assets/pavilion-concept.svg)
+[Project notes](projects/01-st-georges-field-pavilion/README.md) · [Schematic](assets/pavilion-concept.svg) · [Final board preview (compressed)](assets/pavilion-board-2.jpg)
 
 ### 2. St George's Field Boundary Barrier — Structural Design & Foundation Checks
 A contemporary concept to replace a 20 m gap in the existing boundary wall. The design explored how to maintain a complete physical boundary while considering visual impact, durability, maintenance, buildability, wind loading and foundation bearing capacity.
 
 **Skills developed:** Interpreting design constraints; comparing material options; communicating a concept through technical drawings; and applying foundation calculations and stability checks to an academic proposal.
 
-[Project notes](projects/02-st-georges-field-vertical-barrier/README.md) · [Schematic thumbnail](assets/vertical-barrier.svg)
+[Project notes](projects/02-st-georges-field-vertical-barrier/README.md) · [Schematic](assets/vertical-barrier.svg) · [Final board preview (compressed)](assets/vertical-barrier-board.jpg)
 
 ### 3. St George's Field Raised Walkway — Accessible Elevated Route
 An elevated route concept connecting access points around St George's Field and the Sir William Henry Bragg Building. The scheme considered accessibility, site context, structural stability, material selection, connections and construction method.
 
 **Skills developed:** Revit modelling; coordinated plans, sections, elevations and 3D views; conceptual structural detailing; and collaborative decision-making.
 
-[Project notes](projects/03-st-georges-field-raised-walkway/README.md) · [Schematic thumbnail](assets/raised-walkway.svg)
+[Project notes](projects/03-st-georges-field-raised-walkway/README.md) · [Schematic](assets/raised-walkway.svg) · [Final board preview (compressed)](assets/raised-walkway-board.jpg)
 
 ## Technical skills explored
 
