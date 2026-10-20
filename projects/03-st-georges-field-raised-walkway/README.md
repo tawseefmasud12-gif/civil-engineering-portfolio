@@ -22,6 +22,8 @@ Worked with group members to research precedents, develop concepts, review optio
 The project improved my understanding of how route geometry, accessibility, structural support, connection details and site context need to be resolved together. It also strengthened my confidence in using Revit-generated drawings and visualisations to communicate engineering decisions.
 
 ## Visual
-- [Final design board](../../assets/raised-walkway-board.jpg)
+- [Raised walkway concept schematic](../../assets/raised-walkway.svg)
+
+*The SVG is a schematic navigation thumbnail, not an original coursework presentation board.*
 
 **Academic-work note:** This is a university design proposal, not a built walkway or construction-ready engineering design. Group contributions should be acknowledged appropriately.
